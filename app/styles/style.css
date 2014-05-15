@@ -1,0 +1,25 @@
+html, #map-canvas {
+        height: 500px;
+        width: 800px;
+        margin: 0 auto;
+        padding: 0px
+      }
+      #panel {
+        position: absolute;
+        top: 5px;
+        left: 50%;
+        margin-left: -180px;
+        z-index: 5;
+        background-color: #fff;
+        padding: 5px;
+        border: 1px solid #999;
+      }
+
+      .headerIMG {
+      margin: 0 auto;
+    } 
+
+      body {
+        background-image:url(http://s30.postimg.org/m24zobtrh/128_216.jpg);
+        background-repeat:repeat;
+      }
